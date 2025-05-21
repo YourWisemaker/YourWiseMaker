@@ -5,7 +5,6 @@
 [![Email](https://img.shields.io/badge/email-fitranto.arief%40gmail.com-red?logo=gmail)](mailto:fitranto.arief@gmail.com)
 [![Location](https://img.shields.io/badge/Based%20in-Yogyakarta-green)](https://maps.google.com/?q=Yogyakarta)
 
-[![YourWisemaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourWisemaker&show_icons=true&theme=default)](https://github.com/YourWisemaker)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourWisemaker&layout=compact)](https://github.com/YourWisemaker)
 
 ---
