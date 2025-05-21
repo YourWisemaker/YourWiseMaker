@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a full stack developer with 10+ years of experience, focused on building scalable backend systems, integrating CRM platforms, and delivering AI-powered analytics pipelines. I've worked with clients across Singapore, the UK, and Indonesia — and enjoy solving real business problems with clean, reliable code.
+I’m a full stack developer with 10+ years of experience, focused on building scalable backend systems, integrating CRM platforms, and delivering AI-powered analytics pipelines. I've worked with clients across Singapore, the UK, and Indonesia. Enjoy solving real business problems with clean, reliable code.
 
 ---
 
@@ -53,7 +53,7 @@ I’m a full stack developer with 10+ years of experience, focused on building s
 
 ## 📈 Highlights
 
-- ✅ Delivered 10+ client projects to production with 100% satisfaction
+- ✅ Delivered 10+ client projects to production with 99% satisfaction
 - 🚀 Improved data pipelines & insight accuracy by up to 40% using AI
 - 🔁 Integrated 10+ CRM systems seamlessly for enterprise workflows
 - ⚙️ Reduced microservice deployment time by 40% via CI/CD and Docker
