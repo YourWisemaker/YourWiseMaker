@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Arief Fitranto
+# 👋 Hi, I'm Arief Fitranto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arief--fitranto-blue?logo=linkedin)](https://www.linkedin.com/in/arief-fitranto)
 [![Email](https://img.shields.io/badge/email-fitranto.arief%40gmail.com-red?logo=gmail)](mailto:fitranto.arief@gmail.com)
